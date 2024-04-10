@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-  project:      "Summer"      # this is for sum
+  project:      # this is for sum
   title:        "Summer"      # Project title
   author:       "Sachin"      # Your name
   discord:      "sac"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
