@@ -8,13 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
 It works very well.
 
 ## How to test
-
 Project is just to sum two numbers
 
 ## External hardware
-
 PMOD and LED
