@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project: Summer
+  project:      "Summer"      # this is for sum
   title:        "Summer"      # Project title
   author:       "Sachin"      # Your name
   discord:      "sac"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
@@ -18,7 +18,7 @@ project: Summer
     - "project.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
-pinout:
+  pinout:
   # Inputs
   ui[0]: "ui_in"
   ui[1]: "uo_out"
